@@ -96,5 +96,8 @@ GPA: 90.85/100    Ranking: top 3%
 <code><img height="30" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
 
+---
 
+[**Download my CV**](src="./Res/doc/cv.pdf") to learn me more!
 
+last update Mar.2023
