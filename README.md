@@ -28,14 +28,14 @@ Here are some ideas to get you started:
 
 ### 🎓 Education Background
 
-[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+[<img align="left" height="90px" width="90px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
 
 **PhD Student** \
 [**PKU**](https://www.pku.edu.cn/) • Sep.2020 - Present \
 **College of Life Sciences** bioinformatics \
 <br>
 
-[<img align="left" height="94px" width="94px" alt="SDU" src="./Res/Icon/SDU.png"/>](https://www.sdu.edu.cn/)
+[<img align="left" height="90px" width="90px" alt="SDU" src="./Res/Icon/SDU.png"/>](https://www.sdu.edu.cn/)
 
 **Bachelor Degree** \
 [**SDU**](https://www.sdu.edu.cn/) • Sep.2020 - Present \
