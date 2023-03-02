@@ -90,7 +90,7 @@ GPA: 90.85/100    Ranking: top 3%
 
 **Design**
 
-<code><img height="30" src="./Res/Icon/AI.png" alt="ai" title="AI"></code>
+<code><img height="30" src="./Res/Icon/ai2.png" alt="ai2" title="AI"></code>
 <code><img height="30" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
 
