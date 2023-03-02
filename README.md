@@ -59,7 +59,7 @@ GPA: 90.85/100    Ranking: top 3%
 
 ### 💼 Internship
 
-[<img align="left" height="54px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
+[<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
 
 **Bioinformatics Intern** \
 [**Illummina**](https://www.illumina.com.cn) Service & Support department• Jul.- Sep.2022 \
