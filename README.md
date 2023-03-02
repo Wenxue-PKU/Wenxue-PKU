@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 [<img align="left" height="90px" width="90px" alt="SDU" src="./Res/Icon/SDU.png"/>](https://www.sdu.edu.cn/)
 
 **Bachelor Degree** \
-[**SDU**](https://www.sdu.edu.cn/) • Sep.2020 - Present \
+[**SDU**](https://www.sdu.edu.cn/) • Jun.2016 - Sep.2020 \
 **College of Life Sciences** Biology Science \
 GPA: 90.85/100    Ranking: top 3% 
 
