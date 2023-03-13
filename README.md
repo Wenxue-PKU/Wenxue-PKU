@@ -75,7 +75,7 @@ GPA: 90.85/100    Ranking: top 3%
 - **The First Prize Scholarship and Excellent Student**, Shandong University
 - **Bronze award**, International genetically engineered machine competition (iGEM)
 - **Outstanding Graduates**, Shandong province
-- **Honours Degrees**, Shandong University
+- **Honors Degrees**, Shandong University
 
 ---
 
