@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 **PhD Student** \
 [**PKU**](https://www.pku.edu.cn/) • Sep.2020 - Present \
-**College of Life Sciences** bioinformatics \
+**College of Life Sciences** Bioinformatics \
 <br>
 
 [<img align="left" height="90px" width="90px" alt="SDU" src="./Res/Icon/SDU.png"/>](https://www.sdu.edu.cn/)
