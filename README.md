@@ -1,8 +1,5 @@
 
-<h1 align="center">
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=15F75E&width=600&lines=To+be+continued%2C+to+be+understood...)](https://git.io/typing-svg)
-</h1>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=15F75E&background=0B030800&width=600&lines=To+be+continued%2C+to+be+understood...)](https://git.io/typing-svg)
 
 ---
 
