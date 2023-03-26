@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=15F75E&width=600&lines=To+be+continued%2C+to+be+understood...)](https://git.io/typing-svg)" />
+  <img src=[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=15F75E&width=600&lines=To+be+continued%2C+to+be+understood...)](https://git.io/typing-svg)  />
 </h1>
 
 
