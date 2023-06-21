@@ -1,4 +1,3 @@
-![image](https://github.com/Wenxue-PKU/Wenxue-PKU/assets/53139100/24c5ec43-a087-4648-bb6c-ee460c895fce)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=15F75E&background=0B030800&width=600&lines=To+be+continued%2C+to+be+understood...)](https://git.io/typing-svg)
 
 ---
