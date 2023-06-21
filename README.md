@@ -1,4 +1,4 @@
-
+![image](https://github.com/Wenxue-PKU/Wenxue-PKU/assets/53139100/24c5ec43-a087-4648-bb6c-ee460c895fce)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=15F75E&background=0B030800&width=600&lines=To+be+continued%2C+to+be+understood...)](https://git.io/typing-svg)
 
 ---
@@ -36,9 +36,9 @@ GPA: 90.85/100    Ranking: top 3%
 - **Chromatin epigenetics and diseases**
   - Completed the experiment design, sequencing data analysis and organized the manuscript.
   - Illustrated the disease development in the perspective of chromatin accessibility using bioinformatics analysis and to find new targets for clinical treatment.
-- **Spatial multi-omics profiling transcriptome and proteomics dynamic in disease**
-  - Developed spatial proteomics experiment methods to reveal the spatial heterogeneity of tumor microenvironment in liver cirrhosis.
-  - Combined spatial proteomics analysis with spatial transcriptome to profile the cell atlas and investigate clinical treatment target.
+- **Unraveling the Effects of Microenvironmental Stiffness on Cellular Responses by Integrating Spatial Transcriptomics and Nanoindentation!**
+  - Developed spatial experiment methods to reveal the tissue stiffness of tumor microenvironment in liver cirrhosis.
+  - Combined spatial transcriptome analysis with nanoindentation to profile the cell atlas and investigate clinical treatment target.
 
 ---
 
