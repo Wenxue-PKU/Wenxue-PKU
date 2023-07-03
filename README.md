@@ -82,6 +82,6 @@ GPA: 90.85/100    Ranking: top 3%
 
 ---
 
-[**Download my CV**](src="./Res/doc/cv.pdf") to learn me more!
+[**Download my CV**](src="./Res/230703_CV_Zhao_Wenxue_github.pdf") to learn me more!
 
 last update Mar.2023
