@@ -60,6 +60,10 @@ GPA: 90.85/100    Ranking: top 3%
 - **Bronze award**, International genetically engineered machine competition (iGEM)
 - **Outstanding Graduates**, Shandong province
 - **Honors Degrees**, Shandong University
+- **Excellent Research Award**, Peking University
+- **Gu Wenyu Life Sciences Scholarship**, Peking University
+![image](https://github.com/Wenxue-PKU/Wenxue-PKU/assets/53139100/601a13cb-177a-4d44-b904-5393aabe553c)
+
 
 ---
 
