@@ -30,14 +30,20 @@ GPA: 90.85/100    Ranking: top 3%
 
 ### 📗 Academic Experience
 
-- **Architectural proteins and the formation and maintenance of 3D genome**
-  - Revealed the function and mechanism of architectural proteins in 3D genome organization by multi-omics data. 
-- **Chromatin epigenetics and diseases**
-  - Completed the experiment design, sequencing data analysis and organized the manuscript.
-  - Illustrated the disease development in the perspective of chromatin accessibility using bioinformatics analysis and to find new targets for clinical treatment.
-- **Unraveling the Effects of Microenvironmental Stiffness on Cellular Responses by Integrating Spatial Transcriptomics and Nanoindentation!**
-  - Developed spatial experiment methods to reveal the tissue stiffness of tumor microenvironment in liver cirrhosis.
+- **Exploring the Functions of architectural proteins on the formation and maintenance of 3D genome structure**
+  - Background: Investigated the relationship between the 3D genome structure and processes such as disease and aging.
+  - Responsibilities: Worked as a team collaborator to analyze multi-omics data, manage the data results and write scientific papers.
+  - Achievements: A co-first author SCI paper (IF: 16.5) has published, and 2 additional papers under submission. 
+- **Exploring the Impact and Mechanism of Cellular Mechanical Factors on Disease**
+  - Background: Designed in vitro matrices to simulate the physiological or pathological stiffness of the liver.
+  - Responsibilities: Worked as a team leader to oversee the overall planning and advancement of the research project, coordinate with doctors and advisors, and submit weekly work reports; Attended academic conferences and give
+presentations.
+  - Achievements: The first author article of this topic is currently under review.
+- **Development of multimodal technology for in situ spatial omics and mechanical atlas and its application**
+  - Background: Developed multimodal experimental methods and built data analysis pipeline to reveal the spatial transcriptome and mechanical signature atlas of the tumor microenvironment.
   - Combined spatial transcriptome analysis with nanoindentation to profile the cell atlas and investigate clinical treatment target.
+  - Responsibilities: Worked as a team leader to design techniques and pipelines. Coordinated the division of labor among project members and organize troubleshooting for experimental techniques.
+  - Achievements: Presented at academic conferences with both a poster and an oral presentation on two occasions.
 
 ---
 
