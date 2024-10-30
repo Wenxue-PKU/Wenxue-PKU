@@ -49,6 +49,13 @@ presentations.
 
 ### 💼 Internship
 
+
+[<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/biogeo.png"/>](https://www.biogeom.com/zh/)
+
+**Computational Biology Researcher Intern** \
+[**BioGeometry**](https://www.biogeom.com/zh/) Jul.2023- Nov.2023
+- 
+
 [<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
 
 **Bioinformatics Intern** \
@@ -56,6 +63,8 @@ presentations.
 - Analyzed NGS datasets to support existing workflows and computational pipelines.
 - Provided clear documentation of tools, workflows and analyses.
 - Engaged in collaborative research with internal and external teams and department.
+
+
 
 ---
 
