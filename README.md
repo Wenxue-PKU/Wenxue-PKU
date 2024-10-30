@@ -50,9 +50,9 @@ presentations.
 ### 💼 Internship
 
 
-[<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/biogeo.png"/>](https://www.biogeom.com/zh/)
+[<img align="left" height="48px" width="94px" alt="BioGeometry" src="./Res/Icon/biogeo.png"/>](https://www.biogeom.com/zh/)
 
-**Computational Biology Researcher Intern** \
+**Computational Biology Researcher Intern**
 [**BioGeometry**](https://www.biogeom.com/zh/) Jul.2023- Nov.2023
 - 
 
