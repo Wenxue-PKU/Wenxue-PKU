@@ -52,9 +52,10 @@ presentations.
 
 [<img align="left" height="48px" width="94px" alt="BioGeometry" src="./Res/Icon/biogeo.png"/>](https://www.biogeom.com/zh/)
 
-**Computational Biology Researcher Intern**
+**Computational Biology Researcher Intern** \
 [**BioGeometry**](https://www.biogeom.com/zh/) Jul.2023- Nov.2023
-- 
+- Participated in two drug target discovery projects, cleaning and analysis of multi-omics data. Collaborated with the AI algorithm team to replicate large language models and deep learning models to identify disease targets.
+- Participate in the product design department's proposal meetings, providing direction for website and software product design from a biological perspective.
 
 [<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
 
@@ -63,8 +64,6 @@ presentations.
 - Analyzed NGS datasets to support existing workflows and computational pipelines.
 - Provided clear documentation of tools, workflows and analyses.
 - Engaged in collaborative research with internal and external teams and department.
-
-
 
 ---
 
