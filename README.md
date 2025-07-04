@@ -33,7 +33,7 @@ GPA: 90.85/100    Ranking: top 3%
 - **Exploring the Functions of architectural proteins on the formation and maintenance of 3D genome structure**
   - Background: Investigated the relationship between the 3D genome structure and processes such as disease and aging.
   - Responsibilities: Worked as a team collaborator to analyze multi-omics data, manage the data results and write scientific papers.
-  - Achievements: A co-first author SCI paper (IF: 16.5) has published, and 2 additional papers under submission. 
+  - Achievements: A co-first author SCI paper (IF: 16.5) has published, and 2 additional papers under revision. 
 - **Exploring the Impact and Mechanism of Cellular Mechanical Factors on Disease**
   - Background: Designed in vitro matrices to simulate the physiological or pathological stiffness of the liver.
   - Responsibilities: Worked as a team leader to oversee the overall planning and advancement of the research project, coordinate with doctors and advisors, and submit weekly work reports; Attended academic conferences and give
