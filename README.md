@@ -69,7 +69,7 @@ GPA: 90.85/100    Ranking: top 3%
 [<img align="left" height="48px" width="48px" alt="isd" src="./Res/Icon/isd.png"/>](http://www.casisd.cn/)
 
 **Research Assistant in the Strategic Consulting Department**	\
-[**Institutes of Science and Development, Chinese Academy of Sciences**](http://www.casisd.cn/)	 2022.10–2023.01
+[**Institutes of Science and Development, Chinese Academy of Sciences**](http://www.casisd.cn/)	 Oct.2022– Jan.2023
 
 - Conducted research and summary on the development dynamics of 32 high-tech zones, with a focus on the innovative development of the biopharmaceutical industry in high-tech zones.
 - Participated in communication and interviews with KOL, drafted interview outlines, and summarized Q&A.
