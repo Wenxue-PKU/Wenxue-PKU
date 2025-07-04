@@ -77,7 +77,7 @@ GPA: 90.85/100    Ranking: top 3%
 [<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
 
 **Bioinformatics Intern** \
-[**Illumina**](https://www.illumina.com.cn) Service & Support department• Jul.2022- Sep.2022
+[**Illumina**](https://www.illumina.com.cn) Service & Support department  Jul.2022- Sep.2022
 - Analyzed NGS datasets to support existing workflows and computational pipelines.
 - Provided clear documentation of tools, workflows and analyses.
 - Engaged in collaborative research with internal and external teams and department.
