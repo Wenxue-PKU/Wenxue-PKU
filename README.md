@@ -28,12 +28,6 @@ GPA: 90.85/100    Ranking: top 3%
 
 ---
 
-### 💼 Work
-- [**Hainan Lecheng Institute of Real World Study**](https://hnrws.cn/) • Sep.2020 - Present \
-** Division of Data Research**
-
----
-
 ### 📗 Academic Experience
 
 - **Exploring the Functions of architectural proteins on the formation and maintenance of 3D genome structure**
@@ -52,6 +46,12 @@ GPA: 90.85/100    Ranking: top 3%
 
 ---
 
+### 💼 Work
+- [**Hainan Lecheng Institute of Real World Study**](https://hnrws.cn/) • Sep.2020 - Present \
+** Division of Data Research**
+
+---
+
 ### 💼 Internship
 
 
@@ -62,8 +62,11 @@ GPA: 90.85/100    Ranking: top 3%
 - Participated in two drug target discovery projects, cleaning and analysis of multi-omics data. Collaborated with the AI algorithm team to replicate large language models and deep learning models to identify disease targets.
 - Participate in the product design department's proposal meetings, providing direction for website and software product design from a biological perspective.
 
+[<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
+
+**Research Assistant in the Strategic Consulting Department**	\
 [**Institutes of Science and Development, Chinese Academy of Sciences**](http://www.casisd.cn/)	 2022.10–2023.01
-**Research Assistant in the Strategic Consulting Department**	
+
 - Conducted research and summary on the development dynamics of 32 high-tech zones, with a focus on the innovative development of the biopharmaceutical industry in high-tech zones.
 - Participated in communication and interviews with KOL, drafted interview outlines, and summarized Q&A.
 
