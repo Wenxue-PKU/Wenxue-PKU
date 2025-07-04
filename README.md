@@ -62,7 +62,7 @@ GPA: 90.85/100    Ranking: top 3%
 - Participated in two drug target discovery projects, cleaning and analysis of multi-omics data. Collaborated with the AI algorithm team to replicate large language models and deep learning models to identify disease targets.
 - Participate in the product design department's proposal meetings, providing direction for website and software product design from a biological perspective.
 
-[<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
+[<img align="left" height="48px" width="94px" alt="ids" src="./Res/Icon/ids.png"/>](http://www.casisd.cn/)
 
 **Research Assistant in the Strategic Consulting Department**	\
 [**Institutes of Science and Development, Chinese Academy of Sciences**](http://www.casisd.cn/)	 2022.10–2023.01
