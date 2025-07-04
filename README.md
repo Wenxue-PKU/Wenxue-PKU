@@ -47,8 +47,12 @@ GPA: 90.85/100    Ranking: top 3%
 ---
 
 ### 💼 Work
-- [**Hainan Lecheng Institute of Real World Study**](https://hnrws.cn/) • Sep.2020 - Present \
-** Division of Data Research**
+
+[<img align="left" height="48px" width="72px" alt="rws" src="./Res/Icon/rws.png"/>](https://hnrws.cn/)
+
+**Division of Data Research** \
+[**Hainan Lecheng Institute of Real World Study**](https://hnrws.cn/)  Jul.2025- Present
+
 
 ---
 
