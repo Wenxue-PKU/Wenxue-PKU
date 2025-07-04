@@ -42,8 +42,7 @@ GPA: 90.85/100    Ranking: top 3%
   - Achievements: A co-first author SCI paper (IF: 16.5) has published, and 2 additional papers under revision. 
 - **Exploring the Impact and Mechanism of Cellular Mechanical Factors on Disease**
   - Background: Designed in vitro matrices to simulate the physiological or pathological stiffness of the liver.
-  - Responsibilities: Worked as a team leader to oversee the overall planning and advancement of the research project, coordinate with doctors and advisors, and submit weekly work reports; Attended academic conferences and give
-presentations.
+  - Responsibilities: Worked as a team leader to oversee the overall planning and advancement of the research project, coordinate with doctors and advisors, and submit weekly work reports; Attended academic conferences and give presentations.
   - Achievements: The first author article of this topic is currently under review.
 - **Development of multimodal technology for in situ spatial omics and mechanical atlas and its application**
   - Background: Developed multimodal experimental methods and built data analysis pipeline to reveal the spatial transcriptome and mechanical signature atlas of the tumor microenvironment.
@@ -63,10 +62,10 @@ presentations.
 - Participated in two drug target discovery projects, cleaning and analysis of multi-omics data. Collaborated with the AI algorithm team to replicate large language models and deep learning models to identify disease targets.
 - Participate in the product design department's proposal meetings, providing direction for website and software product design from a biological perspective.
 
-**Chinese Academy of Sciences Institute for Science and Technology Policy**	 2022.10–2023.01
+[**Institutes of Science and Development, Chinese Academy of Sciences**](http://www.casisd.cn/)	 2022.10–2023.01
 **Research Assistant in the Strategic Consulting Department**	
-	Conducted research and summary on the development dynamics of 32 high-tech zones, with a focus on the innovative development of the biopharmaceutical industry in high-tech zones.
-	Participated in communication and interviews with KOL, drafted interview outlines, and summarized Q&A.
+- Conducted research and summary on the development dynamics of 32 high-tech zones, with a focus on the innovative development of the biopharmaceutical industry in high-tech zones.
+- Participated in communication and interviews with KOL, drafted interview outlines, and summarized Q&A.
 
 [<img align="left" height="48px" width="94px" alt="Illummina" src="./Res/Icon/illumina.png"/>](https://www.illumina.com.cn)
 
