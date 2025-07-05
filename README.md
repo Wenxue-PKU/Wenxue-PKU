@@ -37,7 +37,7 @@ GPA: 90.85/100    Ranking: top 3%
 - **Exploring the Impact and Mechanism of Cellular Mechanical Factors on Disease**
   - Background: Designed in vitro matrices to simulate the physiological or pathological stiffness of the liver.
   - Responsibilities: Worked as a team leader to oversee the overall planning and advancement of the research project, coordinate with doctors and advisors, and submit weekly work reports; Attended academic conferences and give presentations.
-  - Achievements: The first author article of this topic is currently under review.
+  - Achievements: The first-author SCI paper (IF: 6) has published.
 - **Development of multimodal technology for in situ spatial omics and mechanical atlas and its application**
   - Background: Developed multimodal experimental methods and built data analysis pipeline to reveal the spatial transcriptome and mechanical signature atlas of the tumor microenvironment.
   - Combined spatial transcriptome analysis with nanoindentation to profile the cell atlas and investigate clinical treatment target.
