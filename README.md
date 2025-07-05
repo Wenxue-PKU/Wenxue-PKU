@@ -115,6 +115,101 @@ GPA: 90.85/100    Ranking: top 3%
 
 ---
 
+### Publications
+
+<div class="publications">
+  <div class="co-first-author">(* Co-first author)</div>
+  
+  <p class="publication">
+    <span class="authors">Zhao, W.<sup>*</sup>, Yuan, W.<sup>*</sup>, Dong, T.<sup>*</sup>, Qi, W., Feng, Z., Li, C., et al.</span> 
+    <span class="title">Increased matrix stiffness promotes fibrogenesis of hepatic stellate cells through AP-1-induced chromatin priming.</span> 
+    <span class="details">(2025). <span class="journal">Commun. Biol.</span> 8, 920. </span>
+  </p>
+  
+  <p class="publication">
+    <span class="authors">Wu, P., Hsu, A.Y., Peng, T., Zhao, W., Liu, F., Zhang, Z., et al.</span> 
+    <span class="title">The effect of transient, constricted migration on neutrophil intracellular bacteria-killing capability.</span> 
+    <span class="details">(2024). <span class="journal">Immunity</span> 57, 1713-1715. </span>
+  </p>
+  
+  <p class="publication">
+    <span class="authors">Sun, Y.<sup>*</sup>, XU, X.<sup>*</sup>, Zhao, W.<sup>*</sup>, Zhang, Y., Chen, K., Li, Y., et al.</span> 
+    <span class="title">Rad21 is the core subunit of the cohesin complex involved in directing genome organization.</span> 
+    <span class="details">(2023). <span class="journal">Genome Biol.</span> 24, 155. </span>
+  </p>
+  
+  <p class="publication">
+    <span class="authors">Zhang M.<sup>*</sup>, Zhao, W.<sup>*</sup>, Xiao Z.<sup>*</sup>, Chang L., Wang, X., Bai Y., et al.</span> 
+    <span class="title">Lamin A/C safeguards replication initiation by orchestrating chromatin accessibility and PCNA recruitment.</span> 
+    <span class="details">(2025). <span class="journal">bioRxiv.</span> 2025.03</span>
+  </p>
+  
+  <p class="publication">
+    <span class="authors">Wang, Y.<sup>*</sup>, Zhao, W.<sup>*</sup>, Niu, J., Wang, C., Li, C., Sun, Y.</span> 
+    <span class="title">The nucleoskeleton protein NuMA maintains local chromatin architecture partially through promoting linker histone H1 binding to chromatin and nucleosome stacking.</span> 
+    <span class="details">(2024). <span class="status">Submitted.</span></span>
+  </p>
+  
+  <p class="publication">
+    <span class="authors">Niu, J.<sup>*</sup>, Wang, X.<sup>*</sup>, Zhao, W.<sup>*</sup>, Wang, Y., Qin, Y., Huang, X., et al.</span> 
+    <span class="title">Perinuclear force regulates SUN2 dynamics and distribution on the nuclear envelope for proper nuclear mechanotransduction.</span> 
+    <span class="details">(2024). <span class="status">Submitted.</span></span>
+  </p>
+  
+  <style>
+    .publications {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 20px;
+    }
+    
+    .co-first-author {
+      font-style: italic;
+      margin-bottom: 15px;
+      color: #666;
+    }
+    
+    .publication {
+      margin-bottom: 25px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid #eee;
+    }
+    
+    .authors {
+      font-weight: bold;
+      color: #333;
+    }
+    
+    .title {
+      font-style: italic;
+    }
+    
+    .details {
+      color: #555;
+    }
+    
+    .journal {
+      font-style: italic;
+      font-weight: bold;
+    }
+    
+    .impact-factor {
+      color: #d80000;
+      font-weight: bold;
+    }
+    
+    .status {
+      font-weight: bold;
+      color: #0066cc;
+    }
+    
+    sup {
+      color: #d80000;
+    }
+  </style>
+</div>
+
+---
 
 [**Download my CV**](src="./250629_CV_Zhao_Wenxue_github.pdf") to learn me more!
 
