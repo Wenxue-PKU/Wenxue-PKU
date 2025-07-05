@@ -117,13 +117,13 @@ GPA: 90.85/100    Ranking: top 3%
 ---
 
 ### 📗 Publications
-(* Co-first author) \
-**Zhao, W.***, Yuan, W.*, Dong, T.*, Qi, W., Feng, Z., Li, C., et al. Increased matrix stiffness promotes fibrogenesis of hepatic stellate cells through AP-1-induced chromatin priming. (2025). Commun. Biol. 8, 920. \
+(# Co-first author) \
+**Zhao, W.#**, Yuan, W.#, Dong, T.#, Qi, W., Feng, Z., Li, C., et al. Increased matrix stiffness promotes fibrogenesis of hepatic stellate cells through AP-1-induced chromatin priming. (2025). Commun. Biol. 8, 920. \
 Wu, P., Hsu, A.Y., Peng, T., **Zhao, W.**, Liu, F., Zhang, Z., et al. The effect of transient, constricted migration on neutrophil intracellular bacteria-killing capability. (2024). Immunity 57, 1713-1715.\
-Sun, Y.*, XU, X.*, **Zhao, W.***, Zhang, Y., Chen, K., Li, Y., et al. Rad21 is the core subunit of the cohesin complex involved in directing genome organization. (2023). Genome Biol. 24, 155. \
-Zhang M.*, Zhao, W.*, Xiao Z.*, Chang L., Wang, X., Bai Y., et al. Lamin A/C safeguards replication initiation by orchestrating chromatin accessibility and PCNA recruitment. (2025). bioRxiv. 2025.03 \
-Wang, Y.*, **Zhao, W.***, Niu, J., Wang, C., Li, C., Sun, Y. The nucleoskeleton protein NuMA maintains local chromatin architecture partially through promoting linker histone H1 binding to chromatin and nucleosome stacking. (2024). Submitted. \
-Niu, J.*, Wang, X.*, **Zhao, W.***, Wang, Y., Qin, Y., Huang, X., et al. Perinuclear force regulates SUN2 dynamics and distribution on the nuclear envelope for proper nuclear mechanotransduction. (2024). Submitted.\
+Sun, Y.#, XU, X.#, **Zhao, W.#**, Zhang, Y., Chen, K., Li, Y., et al. Rad21 is the core subunit of the cohesin complex involved in directing genome organization. (2023). Genome Biol. 24, 155. \
+Zhang M.#, Zhao, W.#, Xiao Z.#, Chang L., Wang, X., Bai Y., et al. Lamin A/C safeguards replication initiation by orchestrating chromatin accessibility and PCNA recruitment. (2025). bioRxiv. 2025.03 \
+Wang, Y.#, **Zhao, W.#**, Niu, J.#, Wang, C., Li, C., Sun, Y. The nucleoskeleton protein NuMA maintains local chromatin architecture partially through promoting linker histone H1 binding to chromatin and nucleosome stacking. (2024). Submitted. \
+Niu, J.#, Wang, X.#, **Zhao, W.#**, Wang, Y., Qin, Y., Huang, X., et al. Perinuclear force regulates SUN2 dynamics and distribution on the nuclear envelope for proper nuclear mechanotransduction. (2024). Submitted.\
 
 ---
 
