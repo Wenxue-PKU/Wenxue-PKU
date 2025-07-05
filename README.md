@@ -117,7 +117,7 @@ GPA: 90.85/100    Ranking: top 3%
 
 ### 📗 Publications
 
-**(# Co-first author)**
+-- **(# Co-first author)**
 
 - **Zhao, W.#**, Yuan, W.#, Dong, T.#, Qi, W., Feng, Z., Li, C., et al. Increased matrix stiffness promotes fibrogenesis of hepatic stellate cells through AP-1-induced chromatin priming. (2025). Commun. Biol. 8, 920.
 - Wu, P., Hsu, A.Y., Peng, T., **Zhao, W.**, Liu, F., Zhang, Z., et al. The effect of transient, constricted migration on neutrophil intracellular bacteria-killing capability. (2024). Immunity 57, 1713-1715.
