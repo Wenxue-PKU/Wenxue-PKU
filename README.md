@@ -156,59 +156,6 @@ GPA: 90.85/100    Ranking: top 3%
     <span class="details">(2024). <span class="status">Submitted.</span></span>
   </p>
   
-  <style>
-    .publications {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 20px;
-    }
-    
-    .co-first-author {
-      font-style: italic;
-      margin-bottom: 15px;
-      color: #666;
-    }
-    
-    .publication {
-      margin-bottom: 25px;
-      padding-bottom: 10px;
-      border-bottom: 1px solid #eee;
-    }
-    
-    .authors {
-      font-weight: bold;
-      color: #333;
-    }
-    
-    .title {
-      font-style: italic;
-    }
-    
-    .details {
-      color: #555;
-    }
-    
-    .journal {
-      font-style: italic;
-      font-weight: bold;
-    }
-    
-    .impact-factor {
-      color: #d80000;
-      font-weight: bold;
-    }
-    
-    .status {
-      font-weight: bold;
-      color: #0066cc;
-    }
-    
-    sup {
-      color: #d80000;
-    }
-  </style>
-</div>
-
 ---
 
 [**Download my CV**](src="./250629_CV_Zhao_Wenxue_github.pdf") to learn me more!
