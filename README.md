@@ -39,8 +39,7 @@ GPA: 90.85/100    Ranking: top 3%
   - Responsibilities: Worked as a team leader to oversee the overall planning and advancement of the research project, coordinate with doctors and advisors, and submit weekly work reports; Attended academic conferences and give presentations.
   - Achievements: The first-author SCI paper (IF: 6) has published.
 - **Development of multimodal technology for in situ spatial omics and mechanical atlas and its application**
-  - Background: Developed multimodal experimental methods and built data analysis pipeline to reveal the spatial transcriptome and mechanical signature atlas of the tumor microenvironment.
-  - Combined spatial transcriptome analysis with nanoindentation to profile the cell atlas and investigate clinical treatment target.
+  - Background: Developed multimodal experimental methods and built data analysis pipeline to reveal the spatial transcriptome and mechanical signature atlas of the tumor microenvironment. Combined spatial transcriptome analysis with nanoindentation to profile the cell atlas and investigate clinical treatment target.
   - Responsibilities: Worked as a team leader to design techniques and pipelines. Coordinated the division of labor among project members and organize troubleshooting for experimental techniques.
   - Achievements: Presented at academic conferences with both a poster and an oral presentation on two occasions.
 
