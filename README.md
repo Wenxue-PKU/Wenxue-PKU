@@ -5,7 +5,7 @@
 ### 🌱 Brief Introduction
 
 - I’m a PhD in **bioinformatics**, graduating from **<a href="https://www.pku.edu.cn/">Peking University</a>**.
-- My research progects focus on [**3D Genome**](https://www.nature.com/collections/rsxlmsyslk), [**Transcription and Epigenetics**](https://www.cell.com/cell/collections/transcription-epigenetics) and [**Spatial Transcriptomics**](https://www.nature.com/articles/s41592-020-01033-y)
+- My research projects focus on [**3D Genome**](https://www.nature.com/collections/rsxlmsyslk), [**Transcription and Epigenetics**](https://www.cell.com/cell/collections/transcription-epigenetics) and [**Spatial Transcriptomics**](https://www.nature.com/articles/s41592-020-01033-y)
 - You can get in touch with me by email at [**zhaowenxue@alumni.pku.edu.cn**](mailto:zhaowenxue@alumni.pku.edu.cn)
 
 ---
