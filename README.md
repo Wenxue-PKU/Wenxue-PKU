@@ -14,8 +14,8 @@
 
 [<img align="left" height="90px" width="90px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
 
-**PhD Student** \
-[**PKU**](https://www.pku.edu.cn/) • Sep.2020 - Present \
+**PhD Degree** \
+[**PKU**](https://www.pku.edu.cn/) • Sep.2020 - Jun.2025 \
 **College of Life Sciences** Bioinformatics \
 <br>
 
